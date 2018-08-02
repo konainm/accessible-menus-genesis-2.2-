@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Accessible Menus (Genesis 2.2+)
  * Plugin URI: https://github.com/KonainM/accessible-menus-genesis-2.2-.git
- * Description: Adds keyboard accessibility to the Genesis menu's (version 2.2 and higher)
+ * Description: Adds keyboard accessibility to Genesis framework's menus (Supports Genesis 2.2+)
  * Version: 1.0
  * Author: Konain Mukadam
  * Author URI: https://github.com/KonainM/

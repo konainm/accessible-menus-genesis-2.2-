@@ -20,10 +20,6 @@ function wpacc_genesis_dropdown_scripts()
 		wp_register_style( 'wpacc-genesis-dropdown-css', plugins_url( '/wpacc-genesis-dropdown.css' , __FILE__ ) );
 		wp_enqueue_style('wpacc-genesis-dropdown-css');
 	}
-	else
-	{
-		break;
-	}
 }
 
 
